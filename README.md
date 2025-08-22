@@ -78,7 +78,7 @@ user-management-system/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/dylanewe/user-crud.git
-   cd user-management-system
+   cd user-crud
    ```
 
 2. **Install dependencies**
