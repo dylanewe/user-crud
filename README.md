@@ -234,15 +234,6 @@ Make sure to:
 - Set Node.js version to 18.17+
 - Configure build settings if needed
 
-## 📊 Performance
-
-- **Lighthouse Score**: 95+ across all metrics
-- **MongoDB Indexing**: Optimized queries with proper indexes
-- **Connection Pooling**: Efficient database connections
-- **Optimistic Updates**: Instant UI feedback
-- **Code Splitting**: Automatic with Next.js
-- **Image Optimization**: Built-in Next.js optimization
-
 ### Getting Help
 
 - Check the [Issues](https://github.com/your-username/user-management-system/issues) tab
