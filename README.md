@@ -22,13 +22,13 @@ A modern, full-stack CRUD application built with Next.js 15, Tailwind CSS v4, an
 ## 🖥️ Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=User+Dashboard)
+![Dashboard](images/dashboard.png)
 
 ### User Management Table
-![User Table](https://via.placeholder.com/800x300/059669/FFFFFF?text=User+Management+Table)
+![User Table](images/table.png)
 
 ### Create/Edit User Form
-![User Form](https://via.placeholder.com/400x500/DC2626/FFFFFF?text=User+Form+Modal)
+![User Form](images/form.png)
 
 ## 🛠️ Tech Stack
 
