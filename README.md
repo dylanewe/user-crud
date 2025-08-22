@@ -7,18 +7,6 @@ A modern, full-stack CRUD application built with Next.js 15, Tailwind CSS v4, an
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## ✨ Features
-
-- 🔥 **Modern Stack**: Next.js 15 with App Router, React 19, Tailwind CSS v4
-- 📱 **Responsive Design**: Beautiful UI that works on desktop, tablet, and mobile
-- 🚀 **Full CRUD Operations**: Create, Read, Update, Delete users with validation
-- 🎨 **Elegant UI**: Clean, modern interface with smooth animations
-- 📊 **Dashboard**: Real-time statistics and user role distribution
-- 🛡️ **Data Validation**: Frontend and backend validation with meaningful error messages
-- 🔄 **Real-time Updates**: Instant UI updates with optimistic rendering
-- 📨 **Smart Notifications**: Toast notifications for user feedback
-- 🏗️ **Production Ready**: Error handling, loading states, and performance optimized
-
 ## 🖥️ Screenshots
 
 ### Dashboard Overview
@@ -35,7 +23,6 @@ A modern, full-stack CRUD application built with Next.js 15, Tailwind CSS v4, an
 - **Frontend**: Next.js 15, React 19, Tailwind CSS v4
 - **Backend**: Next.js API Routes (Server-side)
 - **Database**: MongoDB Atlas with Mongoose ODM
-- **Validation**: Frontend form validation + MongoDB schema validation
 - **Styling**: Tailwind CSS v4 with custom components
 - **Icons**: Heroicons (via SVG)
 
@@ -216,28 +203,6 @@ The project uses Tailwind CSS v4. You can customize:
 - **Animations**: Update keyframes in `globals.css`
 - **Component styles**: Modify the utility classes in component files
 - **Global styles**: Edit `app/globals.css`
-
-## 🔒 Security Features
-
-- **Input Validation**: Both frontend and backend validation
-- **Email Uniqueness**: Prevents duplicate email addresses
-- **XSS Protection**: Input sanitization and validation
-- **CORS**: Proper API route handling
-- **Environment Variables**: Sensitive data protection
-
-## 📱 Responsive Design
-
-The application is fully responsive with breakpoints:
-
-- **Mobile**: < 768px
-- **Tablet**: 768px - 1024px  
-- **Desktop**: > 1024px
-
-Key responsive features:
-- Collapsible navigation
-- Responsive tables with horizontal scroll
-- Adaptive modal sizing
-- Touch-friendly buttons and inputs
 
 ## 🚀 Deployment
 
